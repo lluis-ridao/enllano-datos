@@ -5,6 +5,7 @@ Sin clave. Licencia: CC BY 4.0. Se descarga la última versión publicada en Zen
 """
 import csv
 import io
+import re
 
 from comun import FuenteNoDisponible, ejecutar, guardar, pedir
 
@@ -37,8 +38,25 @@ def col(cab, *candidatas):
     return None
 
 
+# «Korea, Democratic People's Republic of» → «Democratic People's Republic of Korea» (para no partirlo por la coma)
+INVERTIR = re.compile(r"([A-Z][\w .-]*?), ((?:[\w'.-]+ )*?(?:Republic|Federation|State|Province|Kingdom)(?: [\w'.-]+)*? of)\b")
+
+
 def limpio(v):
-    return [] if v is None else [x.strip() for x in str(v).replace(";", ",").split(",") if x.strip().lower() not in VACIOS]
+    if v is None:
+        return []
+    v = INVERTIR.sub(lambda m: f"{m.group(2)} {m.group(1)}", str(v))
+    return [x.strip() for x in v.replace(";", ",").split(",") if x.strip().lower() not in VACIOS]
+
+
+def fecha_iso(v):
+    """EuRepoC usa dd.mm.aaaa; acepta también aaaa-mm-dd. Devuelve '' si no hay fecha."""
+    v = (v or "").strip()
+    m = re.match(r"(\d{1,2})[./](\d{1,2})[./](\d{4})", v)
+    if m:
+        return f"{m.group(3)}-{int(m.group(2)):02d}-{int(m.group(1)):02d}"
+    m = re.match(r"(\d{4})-(\d{2})-(\d{2})", v)
+    return m.group(0) if m else ""
 
 
 def main():
@@ -64,7 +82,7 @@ def main():
         if "spain" not in (f.get(c_rec) or "").lower():
             continue
         clave = (f.get(c_id) if c_id else None) or f"{f.get(c_nom)}|{f.get(c_fecha)}"
-        i = incidentes.setdefault(clave, {"nombre": (f.get(c_nom) or "").strip(), "fecha": (f.get(c_fecha) or "")[:10],
+        i = incidentes.setdefault(clave, {"nombre": (f.get(c_nom) or "").strip(), "fecha": fecha_iso(f.get(c_fecha)),
                                           "tipos": set(), "origen": set(), "sectores": set()})
         i["tipos"].update(limpio(f.get(c_tipo)) if c_tipo else [])
         i["origen"].update(limpio(f.get(c_ini)) if c_ini else [])
@@ -87,7 +105,7 @@ def main():
         ({"fecha": i["fecha"], "nombre": i["nombre"], "tipo": ", ".join(sorted(i["tipos"])),
           "origen": ", ".join(sorted(i["origen"])) or "Sin atribuir", "sector": ", ".join(sorted(i["sectores"]))}
          for i in incidentes.values()),
-        key=lambda x: x["fecha"], reverse=True)
+        key=lambda x: x["fecha"] or "0000", reverse=True)
 
     guardar(
         "eurepoc-espana",
