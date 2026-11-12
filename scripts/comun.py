@@ -53,7 +53,11 @@ def pedir(url: str, params: dict | None = None, cabeceras: dict | None = None,
             except json.JSONDecodeError:
                 return texto
         except urllib.error.HTTPError as e:
-            ultimo = e
+            try:
+                detalle = e.read().decode("utf-8", "replace")[:300]
+            except Exception:
+                detalle = ""
+            ultimo = f"{e} {detalle}".strip()
             if e.code in (400, 401, 403, 404):
                 break  # no tiene sentido reintentar
             time.sleep(2 ** i * 3)
