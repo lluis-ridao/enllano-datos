@@ -1,0 +1,32 @@
+{
+ "generado": "2026-11-12T07:03:34+00:00",
+ "repositorio": "https://github.com/lluis-ridao/enllano-datos",
+ "conjuntos": [
+  {
+   "id": "alternativas-libres",
+   "titulo": "Alternativas libres en cifras",
+   "descripcion": "Programas libres que sustituyen a los de pago más conocidos: estrellas en GitHub y descargas en Flathub.",
+   "fuente": "GitHub API y estadísticas públicas de Flathub",
+   "url_fuente": "https://flathub.org/statistics",
+   "licencia": "CC BY 4.0 (recopilación de enllano)",
+   "actualizado": "2026-11-12T07:03:33+00:00",
+   "nota": "Flathub cuenta descargas en Linux (instalaciones y algunas actualizaciones), no usuarios activos.",
+   "json": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/alternativas-libres.json",
+   "csv": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/alternativas-libres.csv",
+   "pagina": "/alternativas-libres-en-cifras/"
+  },
+  {
+   "id": "demanda-electrica",
+   "titulo": "Demanda eléctrica y renovables en España",
+   "descripcion": "Demanda diaria y mensual del último año y porcentaje de generación renovable de los últimos 30 días.",
+   "fuente": "Red Eléctrica (REData)",
+   "url_fuente": "https://www.ree.es/es/datos/apidatos",
+   "licencia": "Datos abiertos de Red Eléctrica, reutilización citando la fuente",
+   "actualizado": "2026-11-12T07:03:20+00:00",
+   "nota": "",
+   "json": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/demanda-electrica.json",
+   "csv": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/demanda-electrica.csv",
+   "pagina": "/internet-y-luz-en-espana/"
+  }
+ ]
+}
