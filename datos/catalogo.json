@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T07:03:34+00:00",
+ "generado": "2026-11-12T07:19:34+00:00",
  "repositorio": "https://github.com/lluis-ridao/enllano-datos",
  "conjuntos": [
   {
@@ -27,6 +27,32 @@
    "json": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/demanda-electrica.json",
    "csv": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/demanda-electrica.csv",
    "pagina": "/internet-y-luz-en-espana/"
+  },
+  {
+   "id": "eurepoc-espana",
+   "titulo": "Ciberataques contra España (EuRepoC)",
+   "descripcion": "Incidentes con alguna víctima en España recogidos y codificados por expertos desde el año 2000.",
+   "fuente": "European Repository of Cyber Incidents (EuRepoC)",
+   "url_fuente": "https://eurepoc.eu",
+   "licencia": "CC BY 4.0 (EuRepoC)",
+   "actualizado": "2026-11-12T07:12:49+00:00",
+   "nota": "La atribución («origen») es la que recoge EuRepoC de fuentes públicas; muchos incidentes no tienen autor conocido.",
+   "json": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/eurepoc-espana.json",
+   "csv": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/eurepoc-espana.csv",
+   "pagina": "/ciberataques-espana/"
+  },
+  {
+   "id": "rastreadores-webs-publicas",
+   "titulo": "Rastreadores en webs públicas españolas antes de aceptar cookies",
+   "descripcion": "Qué empresas de publicidad, analítica o redes sociales reciben datos al abrir la portada de webs de la Administración, sin aceptar cookies.",
+   "fuente": "Análisis propio de enllano con Playwright; clasificación con la lista de Disconnect",
+   "url_fuente": "https://github.com/disconnectme/disconnect-tracking-protection",
+   "licencia": "CC BY 4.0 (datos de enllano)",
+   "actualizado": "2026-11-12T07:19:34+00:00",
+   "nota": "Una visita automática a la portada desde un servidor de GitHub, sin interactuar con el aviso de cookies. Que se cargue un dominio de terceros no prueba por sí solo una infracción: es un indicio para revisar.",
+   "json": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/rastreadores-webs-publicas.json",
+   "csv": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/rastreadores-webs-publicas.csv",
+   "pagina": "/rastreadores-webs-publicas/"
   }
  ]
 }
