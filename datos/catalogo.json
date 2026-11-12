@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T07:19:34+00:00",
+ "generado": "2026-11-12T07:28:45+00:00",
  "repositorio": "https://github.com/lluis-ridao/enllano-datos",
  "conjuntos": [
   {
@@ -35,7 +35,7 @@
    "fuente": "European Repository of Cyber Incidents (EuRepoC)",
    "url_fuente": "https://eurepoc.eu",
    "licencia": "CC BY 4.0 (EuRepoC)",
-   "actualizado": "2026-11-12T07:12:49+00:00",
+   "actualizado": "2026-11-12T07:21:39+00:00",
    "nota": "La atribución («origen») es la que recoge EuRepoC de fuentes públicas; muchos incidentes no tienen autor conocido.",
    "json": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/eurepoc-espana.json",
    "csv": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/eurepoc-espana.csv",
@@ -48,7 +48,7 @@
    "fuente": "Análisis propio de enllano con Playwright; clasificación con la lista de Disconnect",
    "url_fuente": "https://github.com/disconnectme/disconnect-tracking-protection",
    "licencia": "CC BY 4.0 (datos de enllano)",
-   "actualizado": "2026-11-12T07:19:34+00:00",
+   "actualizado": "2026-11-12T07:28:45+00:00",
    "nota": "Una visita automática a la portada desde un servidor de GitHub, sin interactuar con el aviso de cookies. Que se cargue un dominio de terceros no prueba por sí solo una infracción: es un indicio para revisar.",
    "json": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/rastreadores-webs-publicas.json",
    "csv": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/rastreadores-webs-publicas.csv",

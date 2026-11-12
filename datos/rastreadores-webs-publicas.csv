@@ -1,9 +1,10 @@
 web,tipo,url,rastreadores,empresas,dominios_terceros,cookies_terceros,analizada,fecha
-Ayuntamiento de Madrid,Ayuntamiento,https://www.madrid.es/,6,Akamai; Dynatrace; New Relic; SolarWinds,7,0,sí,2026-11-12
 RTVE,Empresa pública,https://www.rtve.es/,6,Adobe; Chartbeat; Conviva; Wingify,17,4,sí,2026-11-12
+Ayuntamiento de Madrid,Ayuntamiento,https://www.madrid.es/,5,Akamai; Dynatrace; New Relic; SolarWinds,6,0,sí,2026-11-12
+Aena,Empresa pública,https://www.aena.es/,4,Akamai; Dynatrace; Meta,12,1,sí,2026-11-12
 Ayuntamiento de Málaga,Ayuntamiento,https://www.malaga.eu/,4,Google; Meta; Twitter,10,2,sí,2026-11-12
 Renfe,Empresa pública,https://www.renfe.com/,4,Adobe; QuantumMetric,8,2,sí,2026-11-12
-Aena,Empresa pública,https://www.aena.es/,3,Akamai; Meta,11,1,sí,2026-11-12
+Ayuntamiento de Valencia,Ayuntamiento,https://www.valencia.es/,3,Google; Meta; Twitter,11,1,sí,2026-11-12
 DGT,Estado,https://www.dgt.es/,3,Akamai; Google,7,0,sí,2026-11-12
 Gobierno Vasco,Comunidad autónoma,https://www.euskadi.eus/,3,Google,6,0,sí,2026-11-12
 Ministerio de Sanidad,Estado,https://www.sanidad.gob.es/,3,Google; InnoCraft,7,0,sí,2026-11-12
@@ -20,7 +21,6 @@ Generalitat de Catalunya,Comunidad autónoma,https://web.gencat.cat/,1,CookieInf
 INE,Estado,https://www.ine.es/,1,Google,3,0,sí,2026-11-12
 AEPD,Estado,https://www.aepd.es/,0,,3,0,sí,2026-11-12
 Ayuntamiento de Sevilla,Ayuntamiento,https://www.sevilla.org/,,,,,no,2026-11-12
-Ayuntamiento de Valencia,Ayuntamiento,https://www.valencia.es/,0,,0,0,sí,2026-11-12
 BOE,Estado,https://www.boe.es/,0,,0,0,sí,2026-11-12
 Comunidad de Madrid,Comunidad autónoma,https://www.comunidad.madrid/,0,,3,0,sí,2026-11-12
 Guardia Civil,Estado,https://www.guardiacivil.es/,0,,0,0,sí,2026-11-12
