@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T07:28:45+00:00",
+ "generado": "2026-11-12T14:41:07+00:00",
  "repositorio": "https://github.com/lluis-ridao/enllano-datos",
  "conjuntos": [
   {
@@ -9,7 +9,7 @@
    "fuente": "GitHub API y estadísticas públicas de Flathub",
    "url_fuente": "https://flathub.org/statistics",
    "licencia": "CC BY 4.0 (recopilación de enllano)",
-   "actualizado": "2026-11-12T07:03:33+00:00",
+   "actualizado": "2026-11-12T14:41:07+00:00",
    "nota": "Flathub cuenta descargas en Linux (instalaciones y algunas actualizaciones), no usuarios activos.",
    "json": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/alternativas-libres.json",
    "csv": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/alternativas-libres.csv",
@@ -22,7 +22,7 @@
    "fuente": "Red Eléctrica (REData)",
    "url_fuente": "https://www.ree.es/es/datos/apidatos",
    "licencia": "Datos abiertos de Red Eléctrica, reutilización citando la fuente",
-   "actualizado": "2026-11-12T07:03:20+00:00",
+   "actualizado": "2026-11-12T14:40:50+00:00",
    "nota": "",
    "json": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/demanda-electrica.json",
    "csv": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/demanda-electrica.csv",
@@ -40,6 +40,19 @@
    "json": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/eurepoc-espana.json",
    "csv": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/eurepoc-espana.csv",
    "pagina": "/ciberataques-espana/"
+  },
+  {
+   "id": "ransomware-espana",
+   "titulo": "Reivindicaciones de ransomware contra organizaciones de España",
+   "descripcion": "Recuento mensual por sector de los últimos 24 meses. Solo recuentos, sin nombres.",
+   "fuente": "Ransomware.live",
+   "url_fuente": "https://www.ransomware.live",
+   "licencia": "Recuentos de enllano a partir de Ransomware.live (uso no comercial, con atribución)",
+   "actualizado": "2026-11-12T14:40:21+00:00",
+   "nota": "Son afirmaciones publicadas por bandas criminales en sus webs de filtraciones, no ataques confirmados.",
+   "json": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/ransomware-espana.json",
+   "csv": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/ransomware-espana.csv",
+   "pagina": "/ciberataques-a-tiendas/"
   },
   {
    "id": "rastreadores-webs-publicas",

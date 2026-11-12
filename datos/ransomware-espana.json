@@ -1,0 +1,357 @@
+{
+ "titulo": "Reivindicaciones de ransomware contra organizaciones de España",
+ "descripcion": "Recuento mensual por sector de los últimos 24 meses. Solo recuentos, sin nombres.",
+ "fuente": "Ransomware.live",
+ "url_fuente": "https://www.ransomware.live",
+ "licencia": "Recuentos de enllano a partir de Ransomware.live (uso no comercial, con atribución)",
+ "generado": "2026-11-12T14:40:21+00:00",
+ "nota": "Son afirmaciones publicadas por bandas criminales en sus webs de filtraciones, no ataques confirmados.",
+ "datos": {
+  "meses": [
+   {
+    "mes": "2024-12",
+    "total": 11,
+    "sectores": {
+     "Tecnología": 3,
+     "Professional Services": 2,
+     "Agricultura y alimentación": 1,
+     "Retail & E-Commerce": 1,
+     "Hospitality": 1,
+     "Other": 1,
+     "Servicios financieros": 1,
+     "Industria": 1
+    }
+   },
+   {
+    "mes": "2025-01",
+    "total": 13,
+    "sectores": {
+     "Tecnología": 3,
+     "Retail & E-Commerce": 2,
+     "Sanidad": 1,
+     "Transportation": 1,
+     "Other": 1,
+     "Energy & Utilities": 1,
+     "Professional Services": 1,
+     "Servicios financieros": 1,
+     "Industria": 1,
+     "Sin clasificar": 1
+    }
+   },
+   {
+    "mes": "2025-02",
+    "total": 10,
+    "sectores": {
+     "Tecnología": 2,
+     "Industria": 2,
+     "Energy & Utilities": 1,
+     "Transportation": 1,
+     "Professional Services": 1,
+     "Sanidad": 1,
+     "Agricultura y alimentación": 1,
+     "Government & Defense": 1
+    }
+   },
+   {
+    "mes": "2025-03",
+    "total": 19,
+    "sectores": {
+     "Professional Services": 5,
+     "Sanidad": 3,
+     "Educación": 3,
+     "Retail & E-Commerce": 3,
+     "Agricultura y alimentación": 2,
+     "Energy & Utilities": 1,
+     "Transportation": 1,
+     "Tecnología": 1
+    }
+   },
+   {
+    "mes": "2025-04",
+    "total": 11,
+    "sectores": {
+     "Professional Services": 5,
+     "Government & Defense": 1,
+     "Tecnología": 1,
+     "Hospitality": 1,
+     "Industria": 1,
+     "Servicios financieros": 1,
+     "Sanidad": 1
+    }
+   },
+   {
+    "mes": "2025-05",
+    "total": 21,
+    "sectores": {
+     "Industria": 6,
+     "Hospitality": 4,
+     "Professional Services": 3,
+     "Agricultura y alimentación": 2,
+     "Educación": 2,
+     "Retail & E-Commerce": 2,
+     "Tecnología": 1,
+     "Sanidad": 1
+    }
+   },
+   {
+    "mes": "2025-06",
+    "total": 14,
+    "sectores": {
+     "Transportation": 2,
+     "Retail & E-Commerce": 2,
+     "Hospitality": 2,
+     "Energy & Utilities": 2,
+     "Professional Services": 2,
+     "Tecnología": 1,
+     "Government & Defense": 1,
+     "Agricultura y alimentación": 1,
+     "Servicios financieros": 1
+    }
+   },
+   {
+    "mes": "2025-07",
+    "total": 12,
+    "sectores": {
+     "Industria": 5,
+     "Professional Services": 3,
+     "Retail & E-Commerce": 2,
+     "Hospitality": 1,
+     "Transportation": 1
+    }
+   },
+   {
+    "mes": "2025-08",
+    "total": 6,
+    "sectores": {
+     "Professional Services": 3,
+     "Educación": 1,
+     "Other": 1,
+     "Retail & E-Commerce": 1
+    }
+   },
+   {
+    "mes": "2025-09",
+    "total": 9,
+    "sectores": {
+     "Professional Services": 3,
+     "Hospitality": 2,
+     "Industria": 2,
+     "Retail & E-Commerce": 1,
+     "Government & Defense": 1
+    }
+   },
+   {
+    "mes": "2025-10",
+    "total": 22,
+    "sectores": {
+     "Industria": 6,
+     "Tecnología": 4,
+     "Sanidad": 3,
+     "Hospitality": 3,
+     "Professional Services": 2,
+     "Sin clasificar": 1,
+     "Retail & E-Commerce": 1,
+     "Government & Defense": 1,
+     "Agricultura y alimentación": 1
+    }
+   },
+   {
+    "mes": "2025-11",
+    "total": 15,
+    "sectores": {
+     "Transportation": 5,
+     "Retail & E-Commerce": 2,
+     "Industria": 2,
+     "Tecnología": 2,
+     "Agricultura y alimentación": 2,
+     "Professional Services": 1,
+     "Other": 1
+    }
+   },
+   {
+    "mes": "2025-12",
+    "total": 22,
+    "sectores": {
+     "Tecnología": 5,
+     "Industria": 5,
+     "Agricultura y alimentación": 5,
+     "Servicios financieros": 2,
+     "Hospitality": 2,
+     "Professional Services": 2,
+     "Energy & Utilities": 1
+    }
+   },
+   {
+    "mes": "2026-01",
+    "total": 18,
+    "sectores": {
+     "Tecnología": 6,
+     "Hospitality": 3,
+     "Professional Services": 2,
+     "Transportation": 2,
+     "Industria": 2,
+     "Sanidad": 1,
+     "Government & Defense": 1,
+     "Sin clasificar": 1
+    }
+   },
+   {
+    "mes": "2026-02",
+    "total": 15,
+    "sectores": {
+     "Industria": 7,
+     "Agricultura y alimentación": 3,
+     "Hospitality": 2,
+     "Professional Services": 1,
+     "Tecnología": 1,
+     "Sanidad": 1
+    }
+   },
+   {
+    "mes": "2026-03",
+    "total": 16,
+    "sectores": {
+     "Industria": 4,
+     "Sanidad": 3,
+     "Tecnología": 3,
+     "Retail & E-Commerce": 2,
+     "Servicios financieros": 1,
+     "Transportation": 1,
+     "Agricultura y alimentación": 1,
+     "Professional Services": 1
+    }
+   },
+   {
+    "mes": "2026-04",
+    "total": 18,
+    "sectores": {
+     "Professional Services": 7,
+     "Industria": 6,
+     "Retail & E-Commerce": 2,
+     "Agricultura y alimentación": 1,
+     "Energy & Utilities": 1,
+     "Sin clasificar": 1
+    }
+   },
+   {
+    "mes": "2026-05",
+    "total": 23,
+    "sectores": {
+     "Professional Services": 9,
+     "Retail & E-Commerce": 3,
+     "Educación": 2,
+     "Industria": 2,
+     "Servicios financieros": 1,
+     "Hospitality": 1,
+     "Agricultura y alimentación": 1,
+     "Sin clasificar": 1,
+     "Other": 1,
+     "Government & Defense": 1,
+     "Tecnología": 1
+    }
+   },
+   {
+    "mes": "2026-06",
+    "total": 8,
+    "sectores": {
+     "Professional Services": 2,
+     "Sin clasificar": 2,
+     "Transportation": 1,
+     "Retail & E-Commerce": 1,
+     "Agricultura y alimentación": 1,
+     "Hospitality": 1
+    }
+   },
+   {
+    "mes": "2026-07",
+    "total": 24,
+    "sectores": {
+     "Professional Services": 5,
+     "Tecnología": 4,
+     "Agricultura y alimentación": 3,
+     "Industria": 3,
+     "Hospitality": 3,
+     "Transportation": 2,
+     "Energy & Utilities": 1,
+     "Other": 1,
+     "Retail & E-Commerce": 1,
+     "Sin clasificar": 1
+    }
+   },
+   {
+    "mes": "2026-08",
+    "total": 13,
+    "sectores": {
+     "Tecnología": 3,
+     "Agricultura y alimentación": 2,
+     "Government & Defense": 2,
+     "Other": 2,
+     "Industria": 2,
+     "Professional Services": 1,
+     "Sanidad": 1
+    }
+   },
+   {
+    "mes": "2026-09",
+    "total": 17,
+    "sectores": {
+     "Industria": 5,
+     "Professional Services": 2,
+     "Government & Defense": 2,
+     "Agricultura y alimentación": 2,
+     "Hospitality": 2,
+     "Other": 2,
+     "Tecnología": 1,
+     "Sin clasificar": 1
+    }
+   },
+   {
+    "mes": "2026-10",
+    "total": 23,
+    "sectores": {
+     "Sanidad": 4,
+     "Other": 3,
+     "Transportation": 3,
+     "Industria": 2,
+     "Retail & E-Commerce": 2,
+     "Energy & Utilities": 2,
+     "Tecnología": 2,
+     "Sin clasificar": 2,
+     "Educación": 1,
+     "Agricultura y alimentación": 1,
+     "Professional Services": 1
+    }
+   },
+   {
+    "mes": "2026-11",
+    "total": 9,
+    "sectores": {
+     "Sin clasificar": 2,
+     "Sanidad": 2,
+     "Retail & E-Commerce": 1,
+     "Hospitality": 1,
+     "Other": 1,
+     "Industria": 1,
+     "Servicios financieros": 1
+    }
+   }
+  ],
+  "sectores_total": {
+   "Industria": 65,
+   "Professional Services": 64,
+   "Tecnología": 44,
+   "Agricultura y alimentación": 30,
+   "Retail & E-Commerce": 29,
+   "Hospitality": 29,
+   "Sanidad": 22,
+   "Transportation": 20,
+   "Other": 14,
+   "Sin clasificar": 13,
+   "Government & Defense": 11,
+   "Energy & Utilities": 10,
+   "Servicios financieros": 9,
+   "Educación": 9
+  },
+  "total": 369
+ }
+}

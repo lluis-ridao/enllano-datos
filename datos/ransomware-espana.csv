@@ -1,0 +1,184 @@
+mes,sector,reivindicaciones
+2024-12,Tecnología,3
+2024-12,Professional Services,2
+2024-12,Agricultura y alimentación,1
+2024-12,Retail & E-Commerce,1
+2024-12,Hospitality,1
+2024-12,Other,1
+2024-12,Servicios financieros,1
+2024-12,Industria,1
+2025-01,Tecnología,3
+2025-01,Retail & E-Commerce,2
+2025-01,Sanidad,1
+2025-01,Transportation,1
+2025-01,Other,1
+2025-01,Energy & Utilities,1
+2025-01,Professional Services,1
+2025-01,Servicios financieros,1
+2025-01,Industria,1
+2025-01,Sin clasificar,1
+2025-02,Tecnología,2
+2025-02,Industria,2
+2025-02,Energy & Utilities,1
+2025-02,Transportation,1
+2025-02,Professional Services,1
+2025-02,Sanidad,1
+2025-02,Agricultura y alimentación,1
+2025-02,Government & Defense,1
+2025-03,Professional Services,5
+2025-03,Sanidad,3
+2025-03,Educación,3
+2025-03,Retail & E-Commerce,3
+2025-03,Agricultura y alimentación,2
+2025-03,Energy & Utilities,1
+2025-03,Transportation,1
+2025-03,Tecnología,1
+2025-04,Professional Services,5
+2025-04,Government & Defense,1
+2025-04,Tecnología,1
+2025-04,Hospitality,1
+2025-04,Industria,1
+2025-04,Servicios financieros,1
+2025-04,Sanidad,1
+2025-05,Industria,6
+2025-05,Hospitality,4
+2025-05,Professional Services,3
+2025-05,Agricultura y alimentación,2
+2025-05,Educación,2
+2025-05,Retail & E-Commerce,2
+2025-05,Tecnología,1
+2025-05,Sanidad,1
+2025-06,Transportation,2
+2025-06,Retail & E-Commerce,2
+2025-06,Hospitality,2
+2025-06,Energy & Utilities,2
+2025-06,Professional Services,2
+2025-06,Tecnología,1
+2025-06,Government & Defense,1
+2025-06,Agricultura y alimentación,1
+2025-06,Servicios financieros,1
+2025-07,Industria,5
+2025-07,Professional Services,3
+2025-07,Retail & E-Commerce,2
+2025-07,Hospitality,1
+2025-07,Transportation,1
+2025-08,Professional Services,3
+2025-08,Educación,1
+2025-08,Other,1
+2025-08,Retail & E-Commerce,1
+2025-09,Professional Services,3
+2025-09,Hospitality,2
+2025-09,Industria,2
+2025-09,Retail & E-Commerce,1
+2025-09,Government & Defense,1
+2025-10,Industria,6
+2025-10,Tecnología,4
+2025-10,Sanidad,3
+2025-10,Hospitality,3
+2025-10,Professional Services,2
+2025-10,Sin clasificar,1
+2025-10,Retail & E-Commerce,1
+2025-10,Government & Defense,1
+2025-10,Agricultura y alimentación,1
+2025-11,Transportation,5
+2025-11,Retail & E-Commerce,2
+2025-11,Industria,2
+2025-11,Tecnología,2
+2025-11,Agricultura y alimentación,2
+2025-11,Professional Services,1
+2025-11,Other,1
+2025-12,Tecnología,5
+2025-12,Industria,5
+2025-12,Agricultura y alimentación,5
+2025-12,Servicios financieros,2
+2025-12,Hospitality,2
+2025-12,Professional Services,2
+2025-12,Energy & Utilities,1
+2026-01,Tecnología,6
+2026-01,Hospitality,3
+2026-01,Professional Services,2
+2026-01,Transportation,2
+2026-01,Industria,2
+2026-01,Sanidad,1
+2026-01,Government & Defense,1
+2026-01,Sin clasificar,1
+2026-02,Industria,7
+2026-02,Agricultura y alimentación,3
+2026-02,Hospitality,2
+2026-02,Professional Services,1
+2026-02,Tecnología,1
+2026-02,Sanidad,1
+2026-03,Industria,4
+2026-03,Sanidad,3
+2026-03,Tecnología,3
+2026-03,Retail & E-Commerce,2
+2026-03,Servicios financieros,1
+2026-03,Transportation,1
+2026-03,Agricultura y alimentación,1
+2026-03,Professional Services,1
+2026-04,Professional Services,7
+2026-04,Industria,6
+2026-04,Retail & E-Commerce,2
+2026-04,Agricultura y alimentación,1
+2026-04,Energy & Utilities,1
+2026-04,Sin clasificar,1
+2026-05,Professional Services,9
+2026-05,Retail & E-Commerce,3
+2026-05,Educación,2
+2026-05,Industria,2
+2026-05,Servicios financieros,1
+2026-05,Hospitality,1
+2026-05,Agricultura y alimentación,1
+2026-05,Sin clasificar,1
+2026-05,Other,1
+2026-05,Government & Defense,1
+2026-05,Tecnología,1
+2026-06,Professional Services,2
+2026-06,Sin clasificar,2
+2026-06,Transportation,1
+2026-06,Retail & E-Commerce,1
+2026-06,Agricultura y alimentación,1
+2026-06,Hospitality,1
+2026-07,Professional Services,5
+2026-07,Tecnología,4
+2026-07,Agricultura y alimentación,3
+2026-07,Industria,3
+2026-07,Hospitality,3
+2026-07,Transportation,2
+2026-07,Energy & Utilities,1
+2026-07,Other,1
+2026-07,Retail & E-Commerce,1
+2026-07,Sin clasificar,1
+2026-08,Tecnología,3
+2026-08,Agricultura y alimentación,2
+2026-08,Government & Defense,2
+2026-08,Other,2
+2026-08,Industria,2
+2026-08,Professional Services,1
+2026-08,Sanidad,1
+2026-09,Industria,5
+2026-09,Professional Services,2
+2026-09,Government & Defense,2
+2026-09,Agricultura y alimentación,2
+2026-09,Hospitality,2
+2026-09,Other,2
+2026-09,Tecnología,1
+2026-09,Sin clasificar,1
+2026-10,Sanidad,4
+2026-10,Other,3
+2026-10,Transportation,3
+2026-10,Industria,2
+2026-10,Retail & E-Commerce,2
+2026-10,Energy & Utilities,2
+2026-10,Tecnología,2
+2026-10,Sin clasificar,2
+2026-10,Educación,1
+2026-10,Agricultura y alimentación,1
+2026-10,Professional Services,1
+2026-11,Sin clasificar,2
+2026-11,Sanidad,2
+2026-11,Retail & E-Commerce,1
+2026-11,Hospitality,1
+2026-11,Other,1
+2026-11,Industria,1
+2026-11,Servicios financieros,1
