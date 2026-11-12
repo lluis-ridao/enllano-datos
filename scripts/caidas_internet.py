@@ -22,7 +22,12 @@ def main():
     tok = secreto("CLOUDFLARE_API_TOKEN")
     cab = {"Authorization": f"Bearer {tok}"}
 
-    j = pedir(API, {"location": "ES", "dateRange": "52w", "limit": 100, "format": "json"}, cab)
+    from datetime import datetime, timedelta, timezone
+    fin = datetime.now(timezone.utc).replace(microsecond=0)
+    ini = fin - timedelta(days=364)
+    fmt = "%Y-%m-%dT%H:%M:%SZ"
+    j = pedir(API, {"location": "ES", "dateStart": ini.strftime(fmt), "dateEnd": fin.strftime(fmt),
+                    "limit": 100, "format": "json"}, cab)
     anot = (j.get("result") or {}).get("annotations") or []
     caidas = []
     for a in anot:
