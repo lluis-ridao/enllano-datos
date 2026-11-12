@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Si usas estos datos, cita a enllano.com así:"
+title: "enllano-datos: datos abiertos sobre ciberseguridad, privacidad y software libre en España"
+authors:
+  - family-names: Ridao
+    given-names: Lluís
+repository-code: "https://github.com/lluis-ridao/enllano-datos"
+url: "https://enllano.com/datos/"
+license: CC-BY-4.0
+keywords: [ciberseguridad, ransomware, privacidad, rastreadores, software libre, datos abiertos, España]

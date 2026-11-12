@@ -1,0 +1,9 @@
+{
+  "title": "enllano-datos: datos abiertos sobre ciberseguridad, privacidad y software libre en España",
+  "creators": [{"name": "Ridao, Lluís"}],
+  "description": "Conjuntos de datos que se actualizan solos (GitHub Actions) y que publica enllano.com: reivindicaciones de ransomware contra España por sector, caídas de internet, demanda eléctrica, ciberataques históricos contra España (EuRepoC), alternativas libres en cifras y rastreadores en webs públicas antes de aceptar cookies.",
+  "license": "cc-by-4.0",
+  "upload_type": "dataset",
+  "language": "spa",
+  "keywords": ["ciberseguridad", "ransomware", "privacidad", "rastreadores", "software libre", "datos abiertos", "España"]
+}

@@ -1,0 +1,55 @@
+name: Datos diarios
+
+on:
+  schedule:
+    - cron: "17 4 * * *"   # cada día a las 04:17 UTC
+  workflow_dispatch:        # botón «Run workflow» para lanzarlo a mano
+
+permissions:
+  contents: write
+
+concurrency:
+  group: datos
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Cada fuente va por separado: si una falla, las demás siguen y se conserva su último dato bueno.
+      - name: Ransomware en España (Ransomware.live)
+        continue-on-error: true
+        env:
+          RWL_API_KEY: ${{ secrets.RWL_API_KEY }}
+        run: python scripts/ransomware_es.py
+      - name: Caídas de internet (Cloudflare Radar)
+        continue-on-error: true
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: python scripts/caidas_internet.py
+      - name: Demanda eléctrica (Red Eléctrica)
+        continue-on-error: true
+        run: python scripts/electricidad_ree.py
+      - name: Alternativas libres (GitHub y Flathub)
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/alternativas_libres.py
+      - name: Catálogo y manifiesto de mapas
+        run: python scripts/catalogo.py
+
+      - name: Guardar cambios
+        run: |
+          git config user.name "enllano-datos[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A datos mapas
+          if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
+          git commit -m "Datos actualizados $(date -u +%F)"
+          git pull --rebase origin main
+          git push

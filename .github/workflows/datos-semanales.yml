@@ -1,0 +1,46 @@
+name: Datos semanales
+
+on:
+  schedule:
+    - cron: "41 5 * * 1"   # cada lunes a las 05:41 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: datos
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Instalar dependencias
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Ciberataques contra España (EuRepoC)
+        continue-on-error: true
+        run: python scripts/eurepoc_espana.py
+      - name: Rastreadores en webs públicas
+        continue-on-error: true
+        run: python scripts/rastreadores.py
+      - name: Catálogo
+        run: python scripts/catalogo.py
+
+      - name: Guardar cambios
+        run: |
+          git config user.name "enllano-datos[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A datos mapas
+          if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
+          git commit -m "Datos semanales $(date -u +%F)"
+          git pull --rebase origin main
+          git push
