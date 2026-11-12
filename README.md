@@ -3,6 +3,10 @@
 Datos abiertos de [enllano.com](https://enllano.com/datos/) que se actualizan solos cada día con GitHub Actions.
 Cada cifra lleva su fuente. Puedes descargarlo todo en JSON o CSV y reutilizarlo citando a enllano.com.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24165630.svg)](https://doi.org/10.5281/zenodo.24165630)
+
+Una selección (alternativas libres, demanda eléctrica y rastreadores en webs públicas) también está publicada en [Zenodo](https://doi.org/10.5281/zenodo.24165630), [Kaggle](https://www.kaggle.com/datasets/llusridao/spain-free-software-electricity-demand-trackers) y [Hugging Face](https://huggingface.co/datasets/lluisridao/enllano-datos) con licencia CC BY-NC-SA 4.0.
+
 ## Qué hay
 
 | Archivo | Qué es | Fuente | Se actualiza |
