@@ -4,7 +4,7 @@
  "fuente": "GitHub API y estadísticas públicas de Flathub",
  "url_fuente": "https://flathub.org/statistics",
  "licencia": "CC BY 4.0 (recopilación de enllano)",
- "generado": "2026-11-12T14:41:07+00:00",
+ "generado": "2026-11-12T14:46:46+00:00",
  "nota": "Flathub cuenta descargas en Linux (instalaciones y algunas actualizaciones), no usuarios activos.",
  "datos": {
   "apps": [
@@ -138,8 +138,8 @@
     "web": "https://www.thunderbird.net/es-ES/",
     "github": "",
     "flathub": "org.mozilla.Thunderbird",
-    "descargas_total": 1598418,
-    "descargas_mes": 182,
+    "descargas_total": 1598413,
+    "descargas_mes": 179,
     "descargas_espana": 15678
    },
    {
@@ -205,7 +205,7 @@
     "web": "https://www.freecad.org",
     "github": "FreeCAD/FreeCAD",
     "flathub": "org.freecad.FreeCAD",
-    "estrellas": 35389,
+    "estrellas": 35390,
     "ultimo_cambio": "2026-11-12",
     "licencia": "LGPL-2.1",
     "descargas_total": 1200971,
@@ -219,7 +219,7 @@
     "web": "https://localsend.org/es",
     "github": "localsend/localsend",
     "flathub": "org.localsend.localsend_app",
-    "estrellas": 98642,
+    "estrellas": 98643,
     "ultimo_cambio": "2026-11-11",
     "licencia": "Apache-2.0",
     "descargas_total": 1164815,
@@ -264,9 +264,9 @@
     "estrellas": 57153,
     "ultimo_cambio": "2026-11-12",
     "licencia": "NOASSERTION",
-    "descargas_total": 634911,
-    "descargas_mes": 9330,
-    "descargas_espana": 5572
+    "descargas_total": 634612,
+    "descargas_mes": 9318,
+    "descargas_espana": 5565
    },
    {
     "nombre": "Nextcloud",
@@ -278,9 +278,9 @@
     "estrellas": 37492,
     "ultimo_cambio": "2026-11-12",
     "licencia": "AGPL-3.0",
-    "descargas_total": 504418,
-    "descargas_mes": 9412,
-    "descargas_espana": 4927
+    "descargas_total": 504115,
+    "descargas_mes": 9451,
+    "descargas_espana": 4917
    },
    {
     "nombre": "Element",
@@ -367,7 +367,7 @@
     "web": "https://ollama.com",
     "github": "ollama/ollama",
     "flathub": "",
-    "estrellas": 186770,
+    "estrellas": 186771,
     "ultimo_cambio": "2026-11-12",
     "licencia": "MIT"
    },
@@ -378,7 +378,7 @@
     "web": "https://openwebui.com",
     "github": "open-webui/open-webui",
     "flathub": "",
-    "estrellas": 158466,
+    "estrellas": 158467,
     "ultimo_cambio": "2026-11-12",
     "licencia": "NOASSERTION"
    }
