@@ -1,29 +1,29 @@
 nombre,alternativa_a,categoria,estrellas,descargas_total,descargas_mes,descargas_espana,licencia,ultimo_cambio,github,flathub,web
-Firefox,"Chrome, Edge",Navegar,,12591997,205528,131120,,,,org.mozilla.firefox,https://www.mozilla.org/es-ES/firefox/
-VLC,Reproductores de pago,3D y vídeo,20436,6256791,104255,72218,GPL-2.0,2026-11-12,videolan/vlc,org.videolan.VLC,https://www.videolan.org/vlc/index.es.html
-OBS Studio,"Streamlabs, XSplit",3D y vídeo,79465,3990601,89640,49010,GPL-2.0,2026-11-11,obsproject/obs-studio,com.obsproject.Studio,https://obsproject.com/es
-GIMP,Photoshop,Imagen,6582,3940762,54045,49610,NOASSERTION,2026-11-12,GNOME/gimp,org.gimp.GIMP,https://www.gimp.org
-LibreOffice,Microsoft Office,Oficina,4632,2905742,59807,35907,GPL-3.0,2026-11-12,LibreOffice/core,org.libreoffice.LibreOffice,https://es.libreoffice.org
-Bitwarden,"1Password, LastPass",Seguridad,14218,2294526,43249,23797,NOASSERTION,2026-11-12,bitwarden/clients,com.bitwarden.desktop,https://bitwarden.com
-Kdenlive,Premiere,3D y vídeo,6094,1876202,37122,26844,GPL-3.0,2026-11-12,KDE/kdenlive,org.kde.kdenlive,https://kdenlive.org/es/
-Krita,Photoshop (pintura digital),Imagen,10733,1807673,32574,23481,GPL-3.0,2026-11-12,KDE/krita,org.kde.krita,https://krita.org/es/
-Signal,WhatsApp,Mensajería,16673,1777586,25783,8735,AGPL-3.0,2026-11-11,signalapp/Signal-Desktop,org.signal.Signal,https://signal.org/es/
-Thunderbird,Outlook,Correo,,1598418,182,15678,,,,org.mozilla.Thunderbird,https://www.thunderbird.net/es-ES/
-Inkscape,Illustrator,Imagen,4118,1504718,20661,19209,,2022-03-03,inkscape/inkscape,org.inkscape.Inkscape,https://inkscape.org/es/
-Blender,"Maya, 3ds Max",3D y vídeo,21920,1369421,23334,15615,NOASSERTION,2026-11-12,blender/blender,org.blender.Blender,https://www.blender.org
-Audacity,Adobe Audition,Audio,19036,1328879,20469,18167,NOASSERTION,2026-11-12,audacity/audacity,org.audacityteam.Audacity,https://www.audacityteam.org
-KeePassXC,"1Password, LastPass",Seguridad,29955,1247648,28574,15658,NOASSERTION,2026-11-11,keepassxreboot/keepassxc,org.keepassxc.KeePassXC,https://keepassxc.org
-FreeCAD,"AutoCAD, SolidWorks",Diseño técnico,35390,1200971,31126,42234,LGPL-2.1,2026-11-12,FreeCAD/FreeCAD,org.freecad.FreeCAD,https://www.freecad.org
-LocalSend,AirDrop,Nube,98674,1164815,69209,21228,Apache-2.0,2026-11-11,localsend/localsend,org.localsend.localsend_app,https://localsend.org/es
-darktable,Lightroom,Fotografía,13437,845818,191272,7484,GPL-3.0,2026-11-12,darktable-org/darktable,org.darktable.Darktable,https://www.darktable.org
-Shotcut,"Premiere, iMovie",3D y vídeo,15661,819066,14751,11808,GPL-3.0,2026-11-12,mltframework/shotcut,org.shotcut.Shotcut,https://shotcut.org
-Joplin,"Evernote, OneNote",Notas,57154,634911,9330,5572,NOASSERTION,2026-11-12,laurent22/joplin,net.cozic.joplin_desktop,https://joplinapp.org
-Nextcloud,"Google Drive, Dropbox",Nube,37495,504418,9412,4927,AGPL-3.0,2026-11-12,nextcloud/server,com.nextcloud.desktopclient.nextcloud,https://nextcloud.com/es/
-Element,"Slack, Teams",Mensajería,13656,478416,8634,5336,AGPL-3.0,2026-11-12,element-hq/element-web,im.riot.Riot,https://element.io
-Zotero,"Mendeley, EndNote",Notas,15926,338026,6774,3792,NOASSERTION,2026-11-12,zotero/zotero,org.zotero.Zotero,https://www.zotero.org
-digiKam,Lightroom (catálogo),Fotografía,807,271357,4554,5306,GPL-2.0,2019-12-21,KDE/digikam,org.kde.digikam,https://www.digikam.org
-RawTherapee,"Lightroom, Capture One",Fotografía,4290,176841,1987,1877,GPL-3.0,2026-11-09,RawTherapee/RawTherapee,com.rawtherapee.RawTherapee,https://rawtherapee.com
-Jitsi Meet,"Zoom, Google Meet",Mensajería,30224,,,,Apache-2.0,2026-11-12,jitsi/jitsi-meet,,https://meet.jit.si
-Syncthing,Dropbox (sincronizar),Nube,90411,,,,MPL-2.0,2026-11-10,syncthing/syncthing,,https://syncthing.net
-Ollama,ChatGPT (IA en tu ordenador),IA,186789,,,,MIT,2026-11-12,ollama/ollama,,https://ollama.com
-Open WebUI,ChatGPT (interfaz),IA,158481,,,,NOASSERTION,2026-11-12,open-webui/open-webui,,https://openwebui.com
+Firefox,"Chrome, Edge",Navegar,,12599608,206374,131310,,,,org.mozilla.firefox,https://www.mozilla.org/es-ES/firefox/
+VLC,Reproductores de pago,3D y vídeo,20443,6260144,104163,72336,GPL-2.0,2026-11-13,videolan/vlc,org.videolan.VLC,https://www.videolan.org/vlc/index.es.html
+OBS Studio,"Streamlabs, XSplit",3D y vídeo,79502,3990601,89640,49010,GPL-2.0,2026-11-11,obsproject/obs-studio,com.obsproject.Studio,https://obsproject.com/es
+GIMP,Photoshop,Imagen,6583,3942617,54037,49671,NOASSERTION,2026-11-13,GNOME/gimp,org.gimp.GIMP,https://www.gimp.org
+LibreOffice,Microsoft Office,Oficina,4632,2905742,59807,35907,GPL-3.0,2026-11-13,LibreOffice/core,org.libreoffice.LibreOffice,https://es.libreoffice.org
+Bitwarden,"1Password, LastPass",Seguridad,14222,2296017,43280,23825,NOASSERTION,2026-11-13,bitwarden/clients,com.bitwarden.desktop,https://bitwarden.com
+Kdenlive,Premiere,3D y vídeo,6099,1878584,36750,26917,GPL-3.0,2026-11-13,KDE/kdenlive,org.kde.kdenlive,https://kdenlive.org/es/
+Krita,Photoshop (pintura digital),Imagen,10739,1808619,32004,23510,GPL-3.0,2026-11-13,KDE/krita,org.kde.krita,https://krita.org/es/
+Signal,WhatsApp,Mensajería,16675,1778528,25896,8746,AGPL-3.0,2026-11-11,signalapp/Signal-Desktop,org.signal.Signal,https://signal.org/es/
+Thunderbird,Outlook,Correo,,1598422,184,15678,,,,org.mozilla.Thunderbird,https://www.thunderbird.net/es-ES/
+Inkscape,Illustrator,Imagen,4121,1505406,20608,19236,,2022-03-03,inkscape/inkscape,org.inkscape.Inkscape,https://inkscape.org/es/
+Blender,"Maya, 3ds Max",3D y vídeo,21943,1370235,23368,15635,NOASSERTION,2026-11-13,blender/blender,org.blender.Blender,https://www.blender.org
+Audacity,Adobe Audition,Audio,19042,1328879,20469,18167,NOASSERTION,2026-11-12,audacity/audacity,org.audacityteam.Audacity,https://www.audacityteam.org
+KeePassXC,"1Password, LastPass",Seguridad,29970,1248619,28705,15684,NOASSERTION,2026-11-13,keepassxreboot/keepassxc,org.keepassxc.KeePassXC,https://keepassxc.org
+FreeCAD,"AutoCAD, SolidWorks",Diseño técnico,35411,1200971,31126,42234,LGPL-2.1,2026-11-13,FreeCAD/FreeCAD,org.freecad.FreeCAD,https://www.freecad.org
+LocalSend,AirDrop,Nube,98811,1167334,69444,21305,Apache-2.0,2026-11-11,localsend/localsend,org.localsend.localsend_app,https://localsend.org/es
+darktable,Lightroom,Fotografía,13441,845818,191272,7484,GPL-3.0,2026-11-13,darktable-org/darktable,org.darktable.Darktable,https://www.darktable.org
+Shotcut,"Premiere, iMovie",3D y vídeo,15668,819066,14751,11808,GPL-3.0,2026-11-13,mltframework/shotcut,org.shotcut.Shotcut,https://shotcut.org
+Joplin,"Evernote, OneNote",Notas,57161,634911,9330,5572,NOASSERTION,2026-11-13,laurent22/joplin,net.cozic.joplin_desktop,https://joplinapp.org
+Nextcloud,"Google Drive, Dropbox",Nube,37504,504418,9412,4927,AGPL-3.0,2026-11-13,nextcloud/server,com.nextcloud.desktopclient.nextcloud,https://nextcloud.com/es/
+Element,"Slack, Teams",Mensajería,13659,478721,8664,5340,AGPL-3.0,2026-11-13,element-hq/element-web,im.riot.Riot,https://element.io
+Zotero,"Mendeley, EndNote",Notas,15939,338295,6783,3799,NOASSERTION,2026-11-13,zotero/zotero,org.zotero.Zotero,https://www.zotero.org
+digiKam,Lightroom (catálogo),Fotografía,807,271500,4570,5322,GPL-2.0,2019-12-21,KDE/digikam,org.kde.digikam,https://www.digikam.org
+RawTherapee,"Lightroom, Capture One",Fotografía,4292,176841,1987,1877,GPL-3.0,2026-11-09,RawTherapee/RawTherapee,com.rawtherapee.RawTherapee,https://rawtherapee.com
+Jitsi Meet,"Zoom, Google Meet",Mensajería,30228,,,,Apache-2.0,2026-11-13,jitsi/jitsi-meet,,https://meet.jit.si
+Syncthing,Dropbox (sincronizar),Nube,90428,,,,MPL-2.0,2026-11-10,syncthing/syncthing,,https://syncthing.net
+Ollama,ChatGPT (IA en tu ordenador),IA,186868,,,,MIT,2026-11-13,ollama/ollama,,https://ollama.com
+Open WebUI,ChatGPT (interfaz),IA,158544,,,,NOASSERTION,2026-11-13,open-webui/open-webui,,https://openwebui.com
