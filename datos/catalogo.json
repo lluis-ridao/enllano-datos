@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T12:11:51+00:00",
+ "generado": "2026-11-14T11:27:57+00:00",
  "repositorio": "https://github.com/lluis-ridao/enllano-datos",
  "conjuntos": [
   {
@@ -9,7 +9,7 @@
    "fuente": "GitHub API y estadísticas públicas de Flathub",
    "url_fuente": "https://flathub.org/statistics",
    "licencia": "CC BY 4.0 (recopilación de enllano)",
-   "actualizado": "2026-11-13T12:11:50+00:00",
+   "actualizado": "2026-11-14T11:27:57+00:00",
    "nota": "Flathub cuenta descargas en Linux (instalaciones y algunas actualizaciones), no usuarios activos.",
    "json": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/alternativas-libres.json",
    "csv": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/alternativas-libres.csv",
@@ -22,7 +22,7 @@
    "fuente": "Cloudflare Radar",
    "url_fuente": "https://radar.cloudflare.com/outage-center",
    "licencia": "CC BY-NC 4.0 (Cloudflare Radar)",
-   "actualizado": "2026-11-13T12:10:57+00:00",
+   "actualizado": "2026-11-14T11:27:09+00:00",
    "nota": "",
    "json": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/caidas-internet.json",
    "csv": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/caidas-internet.csv",
@@ -35,7 +35,7 @@
    "fuente": "Red Eléctrica (REData)",
    "url_fuente": "https://www.ree.es/es/datos/apidatos",
    "licencia": "Datos abiertos de Red Eléctrica, reutilización citando la fuente",
-   "actualizado": "2026-11-13T12:11:32+00:00",
+   "actualizado": "2026-11-14T11:27:39+00:00",
    "nota": "",
    "json": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/demanda-electrica.json",
    "csv": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/demanda-electrica.csv",
@@ -61,7 +61,7 @@
    "fuente": "Ransomware.live",
    "url_fuente": "https://www.ransomware.live",
    "licencia": "Recuentos de enllano a partir de Ransomware.live (uso no comercial, con atribución)",
-   "actualizado": "2026-11-13T12:10:57+00:00",
+   "actualizado": "2026-11-14T11:27:08+00:00",
    "nota": "Son afirmaciones publicadas por bandas criminales en sus webs de filtraciones, no ataques confirmados.",
    "json": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/ransomware-espana.json",
    "csv": "https://raw.githubusercontent.com/lluis-ridao/enllano-datos/main/datos/ransomware-espana.csv",
