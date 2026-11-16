@@ -4,25 +4,25 @@
  "fuente": "Análisis propio de enllano con Playwright; clasificación con la lista de Disconnect",
  "url_fuente": "https://github.com/disconnectme/disconnect-tracking-protection",
  "licencia": "CC BY 4.0 (datos de enllano)",
- "generado": "2026-11-12T07:28:45+00:00",
+ "generado": "2026-11-16T14:04:34+00:00",
  "nota": "Una visita automática a la portada desde un servidor de GitHub, sin interactuar con el aviso de cookies. Que se cargue un dominio de terceros no prueba por sí solo una infracción: es un indicio para revisar.",
  "datos": {
-  "fecha": "2026-11-12",
-  "analizadas": 28,
-  "con_rastreadores": 20,
-  "pct_con_rastreadores": 71,
+  "fecha": "2026-11-16",
+  "analizadas": 30,
+  "con_rastreadores": 22,
+  "pct_con_rastreadores": 73,
   "empresas": {
-   "Google": 14,
+   "Google": 16,
    "Akamai": 4,
    "Adobe": 3,
    "Dynatrace": 3,
    "Meta": 3,
    "InnoCraft": 2,
    "Twitter": 2,
+   "Cloudflare": 1,
    "QuantumMetric": 1,
    "Chartbeat": 1,
    "Conviva": 1,
-   "Wingify": 1,
    "CookieInformation": 1,
    "Plausible": 1,
    "New Relic": 1,
@@ -31,50 +31,44 @@
   },
   "webs": [
    {
-    "nombre": "RTVE",
-    "url": "https://www.rtve.es/",
+    "nombre": "Aena",
+    "url": "https://www.aena.es/",
     "tipo": "Empresa pública",
     "ok": true,
-    "terceros": 17,
+    "terceros": 14,
     "rastreadores": [
      {
-      "dominio": "demdex.net",
-      "empresa": "Adobe",
-      "categoria": "Publicidad"
-     },
-     {
-      "dominio": "everesttech.net",
-      "empresa": "Adobe",
-      "categoria": "Publicidad"
-     },
-     {
-      "dominio": "chartbeat.com",
-      "empresa": "Chartbeat",
+      "dominio": "akstat.io",
+      "empresa": "Akamai",
       "categoria": "Analítica"
      },
      {
-      "dominio": "chartbeat.net",
-      "empresa": "Chartbeat",
+      "dominio": "go-mpulse.net",
+      "empresa": "Akamai",
       "categoria": "Analítica"
      },
      {
-      "dominio": "conviva.com",
-      "empresa": "Conviva",
+      "dominio": "dynatrace.com",
+      "empresa": "Dynatrace",
       "categoria": "Analítica"
      },
      {
-      "dominio": "visualwebsiteoptimizer.com",
-      "empresa": "Wingify",
-      "categoria": "Analítica"
+      "dominio": "facebook.com",
+      "empresa": "Meta",
+      "categoria": "Redes sociales"
+     },
+     {
+      "dominio": "facebook.net",
+      "empresa": "Meta",
+      "categoria": "Redes sociales"
      }
     ],
     "empresas": [
-     "Adobe",
-     "Chartbeat",
-     "Conviva",
-     "Wingify"
+     "Akamai",
+     "Dynatrace",
+     "Meta"
     ],
-    "cookies_terceros": 4
+    "cookies_terceros": 1
    },
    {
     "nombre": "Ayuntamiento de Madrid",
@@ -118,39 +112,44 @@
     "cookies_terceros": 0
    },
    {
-    "nombre": "Aena",
-    "url": "https://www.aena.es/",
+    "nombre": "RTVE",
+    "url": "https://www.rtve.es/",
     "tipo": "Empresa pública",
     "ok": true,
-    "terceros": 12,
+    "terceros": 15,
     "rastreadores": [
      {
-      "dominio": "go-mpulse.net",
-      "empresa": "Akamai",
+      "dominio": "demdex.net",
+      "empresa": "Adobe",
+      "categoria": "Publicidad"
+     },
+     {
+      "dominio": "everesttech.net",
+      "empresa": "Adobe",
+      "categoria": "Publicidad"
+     },
+     {
+      "dominio": "chartbeat.com",
+      "empresa": "Chartbeat",
       "categoria": "Analítica"
      },
      {
-      "dominio": "dynatrace.com",
-      "empresa": "Dynatrace",
+      "dominio": "chartbeat.net",
+      "empresa": "Chartbeat",
       "categoria": "Analítica"
      },
      {
-      "dominio": "facebook.com",
-      "empresa": "Meta",
-      "categoria": "Redes sociales"
-     },
-     {
-      "dominio": "facebook.net",
-      "empresa": "Meta",
-      "categoria": "Redes sociales"
+      "dominio": "conviva.com",
+      "empresa": "Conviva",
+      "categoria": "Analítica"
      }
     ],
     "empresas": [
-     "Akamai",
-     "Dynatrace",
-     "Meta"
+     "Adobe",
+     "Chartbeat",
+     "Conviva"
     ],
-    "cookies_terceros": 1
+    "cookies_terceros": 4
    },
    {
     "nombre": "Ayuntamiento de Málaga",
@@ -250,35 +249,6 @@
      "Twitter"
     ],
     "cookies_terceros": 1
-   },
-   {
-    "nombre": "DGT",
-    "url": "https://www.dgt.es/",
-    "tipo": "Estado",
-    "ok": true,
-    "terceros": 7,
-    "rastreadores": [
-     {
-      "dominio": "akstat.io",
-      "empresa": "Akamai",
-      "categoria": "Analítica"
-     },
-     {
-      "dominio": "go-mpulse.net",
-      "empresa": "Akamai",
-      "categoria": "Analítica"
-     },
-     {
-      "dominio": "google-analytics.com",
-      "empresa": "Google",
-      "categoria": "Analítica"
-     }
-    ],
-    "empresas": [
-     "Akamai",
-     "Google"
-    ],
-    "cookies_terceros": 0
    },
    {
     "nombre": "Gobierno Vasco",
@@ -439,6 +409,30 @@
     "cookies_terceros": 0
    },
    {
+    "nombre": "DGT",
+    "url": "https://www.dgt.es/",
+    "tipo": "Estado",
+    "ok": true,
+    "terceros": 6,
+    "rastreadores": [
+     {
+      "dominio": "go-mpulse.net",
+      "empresa": "Akamai",
+      "categoria": "Analítica"
+     },
+     {
+      "dominio": "google-analytics.com",
+      "empresa": "Google",
+      "categoria": "Analítica"
+     }
+    ],
+    "empresas": [
+     "Akamai",
+     "Google"
+    ],
+    "cookies_terceros": 0
+   },
+   {
     "nombre": "Junta de Andalucía",
     "url": "https://www.juntadeandalucia.es/",
     "tipo": "Comunidad autónoma",
@@ -461,6 +455,30 @@
      "Google"
     ],
     "cookies_terceros": 0
+   },
+   {
+    "nombre": "Ministerio del Interior",
+    "url": "https://www.interior.gob.es/",
+    "tipo": "Estado",
+    "ok": true,
+    "terceros": 10,
+    "rastreadores": [
+     {
+      "dominio": "cloudflareinsights.com",
+      "empresa": "Cloudflare",
+      "categoria": "Analítica"
+     },
+     {
+      "dominio": "doubleclick.net",
+      "empresa": "Google",
+      "categoria": "Publicidad"
+     }
+    ],
+    "empresas": [
+     "Cloudflare",
+     "Google"
+    ],
+    "cookies_terceros": 1
    },
    {
     "nombre": "Agencia Tributaria",
@@ -486,6 +504,24 @@
     "tipo": "Ayuntamiento",
     "ok": true,
     "terceros": 2,
+    "rastreadores": [
+     {
+      "dominio": "google-analytics.com",
+      "empresa": "Google",
+      "categoria": "Analítica"
+     }
+    ],
+    "empresas": [
+     "Google"
+    ],
+    "cookies_terceros": 0
+   },
+   {
+    "nombre": "Ayuntamiento de Sevilla",
+    "url": "https://www.sevilla.org/",
+    "tipo": "Ayuntamiento",
+    "ok": true,
+    "terceros": 8,
     "rastreadores": [
      {
       "dominio": "google-analytics.com",
@@ -581,12 +617,6 @@
     "cookies_terceros": 0
    },
    {
-    "nombre": "Ayuntamiento de Sevilla",
-    "url": "https://www.sevilla.org/",
-    "tipo": "Ayuntamiento",
-    "ok": false
-   },
-   {
     "nombre": "BOE",
     "url": "https://www.boe.es/",
     "tipo": "Estado",
@@ -633,16 +663,6 @@
     "cookies_terceros": 0
    },
    {
-    "nombre": "Ministerio del Interior",
-    "url": "https://www.interior.gob.es/",
-    "tipo": "Estado",
-    "ok": true,
-    "terceros": 1,
-    "rastreadores": [],
-    "empresas": [],
-    "cookies_terceros": 0
-   },
-   {
     "nombre": "Policía Nacional",
     "url": "https://www.policia.es/",
     "tipo": "Estado",
@@ -656,7 +676,11 @@
     "nombre": "SEPE",
     "url": "https://www.sepe.es/",
     "tipo": "Estado",
-    "ok": false
+    "ok": true,
+    "terceros": 2,
+    "rastreadores": [],
+    "empresas": [],
+    "cookies_terceros": 0
    },
    {
     "nombre": "Xunta de Galicia",
