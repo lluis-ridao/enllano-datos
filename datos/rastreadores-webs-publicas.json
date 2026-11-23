@@ -4,18 +4,17 @@
  "fuente": "Análisis propio de enllano con Playwright; clasificación con la lista de Disconnect",
  "url_fuente": "https://github.com/disconnectme/disconnect-tracking-protection",
  "licencia": "CC BY 4.0 (datos de enllano)",
- "generado": "2026-11-16T14:04:34+00:00",
+ "generado": "2026-11-23T16:35:05+00:00",
  "nota": "Una visita automática a la portada desde un servidor de GitHub, sin interactuar con el aviso de cookies. Que se cargue un dominio de terceros no prueba por sí solo una infracción: es un indicio para revisar.",
  "datos": {
-  "fecha": "2026-11-16",
-  "analizadas": 30,
-  "con_rastreadores": 22,
-  "pct_con_rastreadores": 73,
+  "fecha": "2026-11-23",
+  "analizadas": 28,
+  "con_rastreadores": 20,
+  "pct_con_rastreadores": 71,
   "empresas": {
-   "Google": 16,
-   "Akamai": 4,
+   "Google": 15,
+   "Akamai": 3,
    "Adobe": 3,
-   "Dynatrace": 3,
    "Meta": 3,
    "InnoCraft": 2,
    "Twitter": 2,
@@ -24,93 +23,11 @@
    "Chartbeat": 1,
    "Conviva": 1,
    "CookieInformation": 1,
+   "Dynatrace": 1,
    "Plausible": 1,
-   "New Relic": 1,
-   "SolarWinds": 1,
    "Kloudend": 1
   },
   "webs": [
-   {
-    "nombre": "Aena",
-    "url": "https://www.aena.es/",
-    "tipo": "Empresa pública",
-    "ok": true,
-    "terceros": 14,
-    "rastreadores": [
-     {
-      "dominio": "akstat.io",
-      "empresa": "Akamai",
-      "categoria": "Analítica"
-     },
-     {
-      "dominio": "go-mpulse.net",
-      "empresa": "Akamai",
-      "categoria": "Analítica"
-     },
-     {
-      "dominio": "dynatrace.com",
-      "empresa": "Dynatrace",
-      "categoria": "Analítica"
-     },
-     {
-      "dominio": "facebook.com",
-      "empresa": "Meta",
-      "categoria": "Redes sociales"
-     },
-     {
-      "dominio": "facebook.net",
-      "empresa": "Meta",
-      "categoria": "Redes sociales"
-     }
-    ],
-    "empresas": [
-     "Akamai",
-     "Dynatrace",
-     "Meta"
-    ],
-    "cookies_terceros": 1
-   },
-   {
-    "nombre": "Ayuntamiento de Madrid",
-    "url": "https://www.madrid.es/",
-    "tipo": "Ayuntamiento",
-    "ok": true,
-    "terceros": 6,
-    "rastreadores": [
-     {
-      "dominio": "go-mpulse.net",
-      "empresa": "Akamai",
-      "categoria": "Analítica"
-     },
-     {
-      "dominio": "dynatrace.com",
-      "empresa": "Dynatrace",
-      "categoria": "Analítica"
-     },
-     {
-      "dominio": "newrelic.com",
-      "empresa": "New Relic",
-      "categoria": "Analítica"
-     },
-     {
-      "dominio": "nr-data.net",
-      "empresa": "New Relic",
-      "categoria": "Analítica"
-     },
-     {
-      "dominio": "pingdom.net",
-      "empresa": "SolarWinds",
-      "categoria": "Analítica"
-     }
-    ],
-    "empresas": [
-     "Akamai",
-     "Dynatrace",
-     "New Relic",
-     "SolarWinds"
-    ],
-    "cookies_terceros": 0
-   },
    {
     "nombre": "RTVE",
     "url": "https://www.rtve.es/",
@@ -219,6 +136,35 @@
      "QuantumMetric"
     ],
     "cookies_terceros": 2
+   },
+   {
+    "nombre": "Aena",
+    "url": "https://www.aena.es/",
+    "tipo": "Empresa pública",
+    "ok": true,
+    "terceros": 11,
+    "rastreadores": [
+     {
+      "dominio": "go-mpulse.net",
+      "empresa": "Akamai",
+      "categoria": "Analítica"
+     },
+     {
+      "dominio": "facebook.com",
+      "empresa": "Meta",
+      "categoria": "Redes sociales"
+     },
+     {
+      "dominio": "facebook.net",
+      "empresa": "Meta",
+      "categoria": "Redes sociales"
+     }
+    ],
+    "empresas": [
+     "Akamai",
+     "Meta"
+    ],
+    "cookies_terceros": 1
    },
    {
     "nombre": "Ayuntamiento de Valencia",
@@ -341,7 +287,7 @@
     "url": "https://ajuntament.barcelona.cat/",
     "tipo": "Ayuntamiento",
     "ok": true,
-    "terceros": 8,
+    "terceros": 9,
     "rastreadores": [
      {
       "dominio": "matomo.cloud",
@@ -517,29 +463,11 @@
     "cookies_terceros": 0
    },
    {
-    "nombre": "Ayuntamiento de Sevilla",
-    "url": "https://www.sevilla.org/",
-    "tipo": "Ayuntamiento",
-    "ok": true,
-    "terceros": 8,
-    "rastreadores": [
-     {
-      "dominio": "google-analytics.com",
-      "empresa": "Google",
-      "categoria": "Analítica"
-     }
-    ],
-    "empresas": [
-     "Google"
-    ],
-    "cookies_terceros": 0
-   },
-   {
     "nombre": "CNMC",
     "url": "https://www.cnmc.es/",
     "tipo": "Estado",
     "ok": true,
-    "terceros": 9,
+    "terceros": 8,
     "rastreadores": [
      {
       "dominio": "doubleclick.net",
@@ -617,6 +545,22 @@
     "cookies_terceros": 0
    },
    {
+    "nombre": "Ayuntamiento de Madrid",
+    "url": "https://www.madrid.es/",
+    "tipo": "Ayuntamiento",
+    "ok": true,
+    "terceros": 0,
+    "rastreadores": [],
+    "empresas": [],
+    "cookies_terceros": 0
+   },
+   {
+    "nombre": "Ayuntamiento de Sevilla",
+    "url": "https://www.sevilla.org/",
+    "tipo": "Ayuntamiento",
+    "ok": false
+   },
+   {
     "nombre": "BOE",
     "url": "https://www.boe.es/",
     "tipo": "Estado",
@@ -676,11 +620,7 @@
     "nombre": "SEPE",
     "url": "https://www.sepe.es/",
     "tipo": "Estado",
-    "ok": true,
-    "terceros": 2,
-    "rastreadores": [],
-    "empresas": [],
-    "cookies_terceros": 0
+    "ok": false
    },
    {
     "nombre": "Xunta de Galicia",
