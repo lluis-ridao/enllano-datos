@@ -4,7 +4,7 @@
  "fuente": "GitHub API y estadísticas públicas de Flathub",
  "url_fuente": "https://flathub.org/statistics",
  "licencia": "CC BY 4.0 (recopilación de enllano)",
- "generado": "2026-11-22T12:35:11+00:00",
+ "generado": "2026-11-23T14:37:17+00:00",
  "nota": "Flathub cuenta descargas en Linux (instalaciones y algunas actualizaciones), no usuarios activos.",
  "datos": {
   "apps": [
@@ -15,9 +15,9 @@
     "web": "https://www.mozilla.org/es-ES/firefox/",
     "github": "",
     "flathub": "org.mozilla.firefox",
-    "descargas_total": 12658564,
-    "descargas_mes": 213081,
-    "descargas_espana": 132582
+    "descargas_total": 12666780,
+    "descargas_mes": 214916,
+    "descargas_espana": 132744
    },
    {
     "nombre": "VLC",
@@ -26,12 +26,12 @@
     "web": "https://www.videolan.org/vlc/index.es.html",
     "github": "videolan/vlc",
     "flathub": "org.videolan.VLC",
-    "estrellas": 20546,
-    "ultimo_cambio": "2026-11-21",
+    "estrellas": 20560,
+    "ultimo_cambio": "2026-11-23",
     "licencia": "GPL-2.0",
-    "descargas_total": 6287462,
-    "descargas_mes": 102430,
-    "descargas_espana": 73125
+    "descargas_total": 6291135,
+    "descargas_mes": 102726,
+    "descargas_espana": 73220
    },
    {
     "nombre": "OBS Studio",
@@ -40,12 +40,12 @@
     "web": "https://obsproject.com/es",
     "github": "obsproject/obs-studio",
     "flathub": "com.obsproject.Studio",
-    "estrellas": 79964,
-    "ultimo_cambio": "2026-11-22",
+    "estrellas": 80081,
+    "ultimo_cambio": "2026-11-23",
     "licencia": "GPL-2.0",
-    "descargas_total": 4021087,
-    "descargas_mes": 89538,
-    "descargas_espana": 49831
+    "descargas_total": 4024388,
+    "descargas_mes": 89422,
+    "descargas_espana": 49908
    },
    {
     "nombre": "GIMP",
@@ -54,12 +54,12 @@
     "web": "https://www.gimp.org",
     "github": "GNOME/gimp",
     "flathub": "org.gimp.GIMP",
-    "estrellas": 6614,
-    "ultimo_cambio": "2026-11-22",
+    "estrellas": 6618,
+    "ultimo_cambio": "2026-11-23",
     "licencia": "NOASSERTION",
-    "descargas_total": 3959050,
-    "descargas_mes": 53112,
-    "descargas_espana": 50230
+    "descargas_total": 3960960,
+    "descargas_mes": 53147,
+    "descargas_espana": 50281
    },
    {
     "nombre": "LibreOffice",
@@ -68,12 +68,12 @@
     "web": "https://es.libreoffice.org",
     "github": "LibreOffice/core",
     "flathub": "org.libreoffice.LibreOffice",
-    "estrellas": 4673,
-    "ultimo_cambio": "2026-11-22",
+    "estrellas": 4682,
+    "ultimo_cambio": "2026-11-23",
     "licencia": "GPL-3.0",
-    "descargas_total": 2926836,
-    "descargas_mes": 60361,
-    "descargas_espana": 36489
+    "descargas_total": 2928845,
+    "descargas_mes": 60378,
+    "descargas_espana": 36536
    },
    {
     "nombre": "Bitwarden",
@@ -82,12 +82,12 @@
     "web": "https://bitwarden.com",
     "github": "bitwarden/clients",
     "flathub": "com.bitwarden.desktop",
-    "estrellas": 14302,
-    "ultimo_cambio": "2026-11-22",
+    "estrellas": 14308,
+    "ultimo_cambio": "2026-11-23",
     "licencia": "NOASSERTION",
-    "descargas_total": 2308851,
-    "descargas_mes": 42801,
-    "descargas_espana": 24185
+    "descargas_total": 2311834,
+    "descargas_mes": 42776,
+    "descargas_espana": 24248
    },
    {
     "nombre": "Kdenlive",
@@ -96,12 +96,12 @@
     "web": "https://kdenlive.org/es/",
     "github": "KDE/kdenlive",
     "flathub": "org.kde.kdenlive",
-    "estrellas": 6171,
-    "ultimo_cambio": "2026-11-22",
+    "estrellas": 6179,
+    "ultimo_cambio": "2026-11-23",
     "licencia": "GPL-3.0",
-    "descargas_total": 1889581,
-    "descargas_mes": 36308,
-    "descargas_espana": 27251
+    "descargas_total": 1890832,
+    "descargas_mes": 36157,
+    "descargas_espana": 27287
    },
    {
     "nombre": "Krita",
@@ -110,12 +110,12 @@
     "web": "https://krita.org/es/",
     "github": "KDE/krita",
     "flathub": "org.kde.krita",
-    "estrellas": 10785,
-    "ultimo_cambio": "2026-11-22",
+    "estrellas": 10791,
+    "ultimo_cambio": "2026-11-23",
     "licencia": "GPL-3.0",
-    "descargas_total": 1818082,
-    "descargas_mes": 30860,
-    "descargas_espana": 23780
+    "descargas_total": 1820224,
+    "descargas_mes": 30899,
+    "descargas_espana": 23842
    },
    {
     "nombre": "Signal",
@@ -124,12 +124,12 @@
     "web": "https://signal.org/es/",
     "github": "signalapp/Signal-Desktop",
     "flathub": "org.signal.Signal",
-    "estrellas": 16741,
+    "estrellas": 16734,
     "ultimo_cambio": "2026-11-19",
     "licencia": "AGPL-3.0",
-    "descargas_total": 1785429,
-    "descargas_mes": 25445,
-    "descargas_espana": 8857
+    "descargas_total": 1786230,
+    "descargas_mes": 25295,
+    "descargas_espana": 8870
    },
    {
     "nombre": "Thunderbird",
@@ -138,8 +138,8 @@
     "web": "https://www.thunderbird.net/es-ES/",
     "github": "",
     "flathub": "org.mozilla.Thunderbird",
-    "descargas_total": 1598490,
-    "descargas_mes": 192,
+    "descargas_total": 1598499,
+    "descargas_mes": 184,
     "descargas_espana": 15678
    },
    {
@@ -149,12 +149,12 @@
     "web": "https://inkscape.org/es/",
     "github": "inkscape/inkscape",
     "flathub": "org.inkscape.Inkscape",
-    "estrellas": 4144,
+    "estrellas": 4151,
     "ultimo_cambio": "2022-03-03",
     "licencia": "",
-    "descargas_total": 1510880,
-    "descargas_mes": 20319,
-    "descargas_espana": 19416
+    "descargas_total": 1511515,
+    "descargas_mes": 20242,
+    "descargas_espana": 19452
    },
    {
     "nombre": "Blender",
@@ -163,12 +163,12 @@
     "web": "https://www.blender.org",
     "github": "blender/blender",
     "flathub": "org.blender.Blender",
-    "estrellas": 22322,
-    "ultimo_cambio": "2026-11-21",
+    "estrellas": 22357,
+    "ultimo_cambio": "2026-11-23",
     "licencia": "NOASSERTION",
-    "descargas_total": 1377450,
-    "descargas_mes": 24327,
-    "descargas_espana": 15822
+    "descargas_total": 1378342,
+    "descargas_mes": 24458,
+    "descargas_espana": 15843
    },
    {
     "nombre": "Audacity",
@@ -177,12 +177,12 @@
     "web": "https://www.audacityteam.org",
     "github": "audacity/audacity",
     "flathub": "org.audacityteam.Audacity",
-    "estrellas": 19140,
-    "ultimo_cambio": "2026-11-22",
+    "estrellas": 19146,
+    "ultimo_cambio": "2026-11-23",
     "licencia": "NOASSERTION",
-    "descargas_total": 1335073,
-    "descargas_mes": 20339,
-    "descargas_espana": 18388
+    "descargas_total": 1335795,
+    "descargas_mes": 20278,
+    "descargas_espana": 18410
    },
    {
     "nombre": "KeePassXC",
@@ -191,12 +191,12 @@
     "web": "https://keepassxc.org",
     "github": "keepassxreboot/keepassxc",
     "flathub": "org.keepassxc.KeePassXC",
-    "estrellas": 30097,
+    "estrellas": 30112,
     "ultimo_cambio": "2026-11-17",
     "licencia": "NOASSERTION",
-    "descargas_total": 1256709,
-    "descargas_mes": 28523,
-    "descargas_espana": 15960
+    "descargas_total": 1257567,
+    "descargas_mes": 28095,
+    "descargas_espana": 15985
    },
    {
     "nombre": "FreeCAD",
@@ -205,12 +205,12 @@
     "web": "https://www.freecad.org",
     "github": "FreeCAD/FreeCAD",
     "flathub": "org.freecad.FreeCAD",
-    "estrellas": 35683,
-    "ultimo_cambio": "2026-11-22",
+    "estrellas": 35717,
+    "ultimo_cambio": "2026-11-23",
     "licencia": "LGPL-2.1",
-    "descargas_total": 1211440,
-    "descargas_mes": 31284,
-    "descargas_espana": 42473
+    "descargas_total": 1212488,
+    "descargas_mes": 31313,
+    "descargas_espana": 42498
    },
    {
     "nombre": "LocalSend",
@@ -219,12 +219,12 @@
     "web": "https://localsend.org/es",
     "github": "localsend/localsend",
     "flathub": "org.localsend.localsend_app",
-    "estrellas": 100229,
-    "ultimo_cambio": "2026-11-21",
+    "estrellas": 100412,
+    "ultimo_cambio": "2026-11-23",
     "licencia": "Apache-2.0",
-    "descargas_total": 1188726,
-    "descargas_mes": 70046,
-    "descargas_espana": 21908
+    "descargas_total": 1191134,
+    "descargas_mes": 70000,
+    "descargas_espana": 21963
    },
    {
     "nombre": "darktable",
@@ -233,12 +233,12 @@
     "web": "https://www.darktable.org",
     "github": "darktable-org/darktable",
     "flathub": "org.darktable.Darktable",
-    "estrellas": 13489,
-    "ultimo_cambio": "2026-11-22",
+    "estrellas": 13495,
+    "ultimo_cambio": "2026-11-23",
     "licencia": "GPL-3.0",
-    "descargas_total": 848121,
-    "descargas_mes": 29205,
-    "descargas_espana": 7584
+    "descargas_total": 848369,
+    "descargas_mes": 7736,
+    "descargas_espana": 7592
    },
    {
     "nombre": "Shotcut",
@@ -247,12 +247,12 @@
     "web": "https://shotcut.org",
     "github": "mltframework/shotcut",
     "flathub": "org.shotcut.Shotcut",
-    "estrellas": 15764,
-    "ultimo_cambio": "2026-11-21",
+    "estrellas": 15774,
+    "ultimo_cambio": "2026-11-23",
     "licencia": "GPL-3.0",
-    "descargas_total": 824118,
-    "descargas_mes": 14474,
-    "descargas_espana": 11968
+    "descargas_total": 824641,
+    "descargas_mes": 14499,
+    "descargas_espana": 11980
    },
    {
     "nombre": "Joplin",
@@ -261,12 +261,12 @@
     "web": "https://joplinapp.org",
     "github": "laurent22/joplin",
     "flathub": "net.cozic.joplin_desktop",
-    "estrellas": 57296,
+    "estrellas": 57320,
     "ultimo_cambio": "2026-11-22",
     "licencia": "NOASSERTION",
-    "descargas_total": 637590,
-    "descargas_mes": 8951,
-    "descargas_espana": 5647
+    "descargas_total": 637939,
+    "descargas_mes": 8926,
+    "descargas_espana": 5661
    },
    {
     "nombre": "Nextcloud",
@@ -275,12 +275,12 @@
     "web": "https://nextcloud.com/es/",
     "github": "nextcloud/server",
     "flathub": "com.nextcloud.desktopclient.nextcloud",
-    "estrellas": 37604,
-    "ultimo_cambio": "2026-11-22",
+    "estrellas": 37614,
+    "ultimo_cambio": "2026-11-23",
     "licencia": "AGPL-3.0",
-    "descargas_total": 507459,
-    "descargas_mes": 9315,
-    "descargas_espana": 5017
+    "descargas_total": 507807,
+    "descargas_mes": 9312,
+    "descargas_espana": 5022
    },
    {
     "nombre": "Element",
@@ -289,12 +289,12 @@
     "web": "https://element.io",
     "github": "element-hq/element-web",
     "flathub": "im.riot.Riot",
-    "estrellas": 13671,
-    "ultimo_cambio": "2026-11-21",
+    "estrellas": 13676,
+    "ultimo_cambio": "2026-11-23",
     "licencia": "AGPL-3.0",
-    "descargas_total": 480906,
-    "descargas_mes": 8594,
-    "descargas_espana": 5397
+    "descargas_total": 481119,
+    "descargas_mes": 8541,
+    "descargas_espana": 5403
    },
    {
     "nombre": "Zotero",
@@ -303,12 +303,12 @@
     "web": "https://www.zotero.org",
     "github": "zotero/zotero",
     "flathub": "org.zotero.Zotero",
-    "estrellas": 16009,
+    "estrellas": 16016,
     "ultimo_cambio": "2026-11-22",
     "licencia": "NOASSERTION",
-    "descargas_total": 339975,
-    "descargas_mes": 6638,
-    "descargas_espana": 3852
+    "descargas_total": 340342,
+    "descargas_mes": 6587,
+    "descargas_espana": 3862
    },
    {
     "nombre": "digiKam",
@@ -320,9 +320,9 @@
     "estrellas": 810,
     "ultimo_cambio": "2019-12-21",
     "licencia": "GPL-2.0",
-    "descargas_total": 272887,
-    "descargas_mes": 4683,
-    "descargas_espana": 5377
+    "descargas_total": 273247,
+    "descargas_mes": 4703,
+    "descargas_espana": 5390
    },
    {
     "nombre": "RawTherapee",
@@ -332,11 +332,11 @@
     "github": "RawTherapee/RawTherapee",
     "flathub": "com.rawtherapee.RawTherapee",
     "estrellas": 4302,
-    "ultimo_cambio": "2026-11-09",
+    "ultimo_cambio": "2026-11-23",
     "licencia": "GPL-3.0",
-    "descargas_total": 177464,
-    "descargas_mes": 1934,
-    "descargas_espana": 1909
+    "descargas_total": 177514,
+    "descargas_mes": 1928,
+    "descargas_espana": 1912
    },
    {
     "nombre": "Jitsi Meet",
@@ -346,7 +346,7 @@
     "github": "jitsi/jitsi-meet",
     "flathub": "",
     "estrellas": 30276,
-    "ultimo_cambio": "2026-11-21",
+    "ultimo_cambio": "2026-11-23",
     "licencia": "Apache-2.0"
    },
    {
@@ -356,8 +356,8 @@
     "web": "https://syncthing.net",
     "github": "syncthing/syncthing",
     "flathub": "",
-    "estrellas": 90704,
-    "ultimo_cambio": "2026-11-22",
+    "estrellas": 90741,
+    "ultimo_cambio": "2026-11-23",
     "licencia": "MPL-2.0"
    },
    {
@@ -367,7 +367,7 @@
     "web": "https://ollama.com",
     "github": "ollama/ollama",
     "flathub": "",
-    "estrellas": 187841,
+    "estrellas": 187923,
     "ultimo_cambio": "2026-11-22",
     "licencia": "MIT"
    },
@@ -378,8 +378,8 @@
     "web": "https://openwebui.com",
     "github": "open-webui/open-webui",
     "flathub": "",
-    "estrellas": 159255,
-    "ultimo_cambio": "2026-11-22",
+    "estrellas": 159336,
+    "ultimo_cambio": "2026-11-23",
     "licencia": "NOASSERTION"
    }
   ]
