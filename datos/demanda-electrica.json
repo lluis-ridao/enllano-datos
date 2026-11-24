@@ -4,12 +4,12 @@
  "fuente": "Red Eléctrica (REData)",
  "url_fuente": "https://www.ree.es/es/datos/apidatos",
  "licencia": "Datos abiertos de Red Eléctrica, reutilización citando la fuente",
- "generado": "2026-11-23T14:36:56+00:00",
+ "generado": "2026-11-24T14:52:36+00:00",
  "nota": "",
  "datos": {
   "ultimo_dia": {
-   "fecha": "2026-11-22",
-   "gwh": 598.1
+   "fecha": "2026-11-23",
+   "gwh": 720.5
   },
   "meses": [
    {
@@ -74,17 +74,13 @@
    },
    {
     "mes": "2026-11",
-    "gwh": 14831.5,
-    "dias": 22
+    "gwh": 15552.0,
+    "dias": 23
    }
   ],
   "renovable_30d": {
    "media_pct": 53.1,
    "dias": [
-    {
-     "fecha": "2026-10-24",
-     "renovable_pct": 53.8
-    },
     {
      "fecha": "2026-10-25",
      "renovable_pct": 57.3
@@ -200,6 +196,10 @@
     {
      "fecha": "2026-11-22",
      "renovable_pct": 63.4
+    },
+    {
+     "fecha": "2026-11-23",
+     "renovable_pct": 53.7
     }
    ]
   },
@@ -1751,6 +1751,10 @@
    {
     "fecha": "2026-11-22",
     "mwh": 598090
+   },
+   {
+    "fecha": "2026-11-23",
+    "mwh": 720527
    }
   ]
  }
