@@ -4,12 +4,12 @@
  "fuente": "Red Eléctrica (REData)",
  "url_fuente": "https://www.ree.es/es/datos/apidatos",
  "licencia": "Datos abiertos de Red Eléctrica, reutilización citando la fuente",
- "generado": "2026-11-25T14:20:38+00:00",
+ "generado": "2026-11-26T13:53:13+00:00",
  "nota": "",
  "datos": {
   "ultimo_dia": {
-   "fecha": "2026-11-24",
-   "gwh": 765.6
+   "fecha": "2026-11-25",
+   "gwh": 771.5
   },
   "meses": [
    {
@@ -74,17 +74,13 @@
    },
    {
     "mes": "2026-11",
-    "gwh": 16317.7,
-    "dias": 24
+    "gwh": 17219.5,
+    "dias": 25
    }
   ],
   "renovable_30d": {
-   "media_pct": 53.0,
+   "media_pct": 53.4,
    "dias": [
-    {
-     "fecha": "2026-10-26",
-     "renovable_pct": 50.8
-    },
     {
      "fecha": "2026-10-27",
      "renovable_pct": 49.0
@@ -111,7 +107,7 @@
     },
     {
      "fecha": "2026-11-02",
-     "renovable_pct": 57.3
+     "renovable_pct": 57.2
     },
     {
      "fecha": "2026-11-03",
@@ -135,15 +131,15 @@
     },
     {
      "fecha": "2026-11-08",
-     "renovable_pct": 50.1
+     "renovable_pct": 50.2
     },
     {
      "fecha": "2026-11-09",
-     "renovable_pct": 57.5
+     "renovable_pct": 57.6
     },
     {
      "fecha": "2026-11-10",
-     "renovable_pct": 56.8
+     "renovable_pct": 57.1
     },
     {
      "fecha": "2026-11-11",
@@ -151,31 +147,31 @@
     },
     {
      "fecha": "2026-11-12",
-     "renovable_pct": 62.1
+     "renovable_pct": 61.6
     },
     {
      "fecha": "2026-11-13",
-     "renovable_pct": 56.3
+     "renovable_pct": 55.5
     },
     {
      "fecha": "2026-11-14",
-     "renovable_pct": 59.6
+     "renovable_pct": 59.2
     },
     {
      "fecha": "2026-11-15",
-     "renovable_pct": 62.7
+     "renovable_pct": 62.3
     },
     {
      "fecha": "2026-11-16",
-     "renovable_pct": 62.9
+     "renovable_pct": 62.5
     },
     {
      "fecha": "2026-11-17",
-     "renovable_pct": 67.7
+     "renovable_pct": 67.4
     },
     {
      "fecha": "2026-11-18",
-     "renovable_pct": 68.5
+     "renovable_pct": 68.1
     },
     {
      "fecha": "2026-11-19",
@@ -199,7 +195,11 @@
     },
     {
      "fecha": "2026-11-24",
-     "renovable_pct": 57.8
+     "renovable_pct": 55.7
+    },
+    {
+     "fecha": "2026-11-25",
+     "renovable_pct": 68.3
     }
    ]
   },
@@ -1666,75 +1666,75 @@
    },
    {
     "fecha": "2026-11-01",
-    "mwh": 562927
+    "mwh": 566434
    },
    {
     "fecha": "2026-11-02",
-    "mwh": 636842
+    "mwh": 637409
    },
    {
     "fecha": "2026-11-03",
-    "mwh": 706300
+    "mwh": 706861
    },
    {
     "fecha": "2026-11-04",
-    "mwh": 720216
+    "mwh": 720815
    },
    {
     "fecha": "2026-11-05",
-    "mwh": 724616
+    "mwh": 725251
    },
    {
     "fecha": "2026-11-06",
-    "mwh": 718990
+    "mwh": 719672
    },
    {
     "fecha": "2026-11-07",
-    "mwh": 633744
+    "mwh": 634667
    },
    {
     "fecha": "2026-11-08",
-    "mwh": 592450
+    "mwh": 608135
    },
    {
     "fecha": "2026-11-09",
-    "mwh": 683194
+    "mwh": 709821
    },
    {
     "fecha": "2026-11-10",
-    "mwh": 700039
+    "mwh": 717550
    },
    {
     "fecha": "2026-11-11",
-    "mwh": 688688
+    "mwh": 697572
    },
    {
     "fecha": "2026-11-12",
-    "mwh": 698607
+    "mwh": 713334
    },
    {
     "fecha": "2026-11-13",
-    "mwh": 707450
+    "mwh": 709511
    },
    {
     "fecha": "2026-11-14",
-    "mwh": 626238
+    "mwh": 631900
    },
    {
     "fecha": "2026-11-15",
-    "mwh": 596425
+    "mwh": 602965
    },
    {
     "fecha": "2026-11-16",
-    "mwh": 702959
+    "mwh": 706858
    },
    {
     "fecha": "2026-11-17",
-    "mwh": 725221
+    "mwh": 734202
    },
    {
     "fecha": "2026-11-18",
-    "mwh": 721796
+    "mwh": 734019
    },
    {
     "fecha": "2026-11-19",
@@ -1759,6 +1759,10 @@
    {
     "fecha": "2026-11-24",
     "mwh": 765619
+   },
+   {
+    "fecha": "2026-11-25",
+    "mwh": 771534
    }
   ]
  }
