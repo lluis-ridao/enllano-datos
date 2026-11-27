@@ -4,7 +4,7 @@
  "fuente": "Ransomware.live",
  "url_fuente": "https://www.ransomware.live",
  "licencia": "Recuentos de enllano a partir de Ransomware.live (uso no comercial, con atribución)",
- "generado": "2026-11-26T13:52:41+00:00",
+ "generado": "2026-11-27T13:51:05+00:00",
  "nota": "Son afirmaciones publicadas por bandas criminales en sus webs de filtraciones, no ataques confirmados.",
  "datos": {
   "meses": [
@@ -324,15 +324,15 @@
    },
    {
     "mes": "2026-11",
-    "total": 16,
+    "total": 17,
     "sectores": {
      "Hospitality": 3,
      "Industria": 3,
+     "Tecnología": 2,
      "Servicios financieros": 2,
      "Sin clasificar": 2,
      "Sanidad": 2,
      "Agricultura y alimentación": 1,
-     "Tecnología": 1,
      "Retail & E-Commerce": 1,
      "Other": 1
     }
@@ -341,7 +341,7 @@
   "sectores_total": {
    "Industria": 67,
    "Professional Services": 64,
-   "Tecnología": 45,
+   "Tecnología": 46,
    "Agricultura y alimentación": 31,
    "Hospitality": 31,
    "Retail & E-Commerce": 29,
@@ -354,6 +354,6 @@
    "Energy & Utilities": 10,
    "Educación": 9
   },
-  "total": 376
+  "total": 377
  }
 }
